@@ -1,0 +1,10 @@
+nav{
+    background-color:rgb(4, 110, 110);
+    color: white;
+    font-size: 20px;
+    padding: 1%;
+}
+
+agm-map {
+    height: 300px;
+  }
